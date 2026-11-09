@@ -1,0 +1,25 @@
+﻿codigo_ibge,municipio,uf,sexo,raca_cor,taxa_alfabetizacao_pct,ano_censo
+3550308,São Paulo,SP,Homem,Branca,97.8,2022
+3550308,São Paulo,SP,Homem,Preta/Parda,95.4,2022
+3550308,São Paulo,SP,Mulher,Branca,98.2,2022
+3550308,São Paulo,SP,Mulher,Preta/Parda,96.1,2022
+3304557,Rio de Janeiro,RJ,Homem,Branca,97.5,2022
+3304557,Rio de Janeiro,RJ,Homem,Preta/Parda,95.1,2022
+3304557,Rio de Janeiro,RJ,Mulher,Branca,98.0,2022
+3304557,Rio de Janeiro,RJ,Mulher,Preta/Parda,95.8,2022
+3106200,Belo Horizonte,MG,Homem,Branca,97.6,2022
+3106200,Belo Horizonte,MG,Homem,Preta/Parda,95.0,2022
+3106200,Belo Horizonte,MG,Mulher,Branca,98.1,2022
+3106200,Belo Horizonte,MG,Mulher,Preta/Parda,95.7,2022
+2927408,Salvador,BA,Homem,Branca,96.8,2022
+2927408,Salvador,BA,Homem,Preta/Parda,93.9,2022
+2927408,Salvador,BA,Mulher,Branca,97.4,2022
+2927408,Salvador,BA,Mulher,Preta/Parda,94.8,2022
+2304400,Fortaleza,CE,Homem,Branca,95.9,2022
+2304400,Fortaleza,CE,Homem,Preta/Parda,92.5,2022
+2304400,Fortaleza,CE,Mulher,Branca,96.5,2022
+2304400,Fortaleza,CE,Mulher,Preta/Parda,93.4,2022
+1302603,Manaus,AM,Homem,Branca,96.5,2022
+1302603,Manaus,AM,Homem,Preta/Parda,94.1,2022
+1302603,Manaus,AM,Mulher,Branca,96.8,2022
+1302603,Manaus,AM,Mulher,Preta/Parda,94.6,2022

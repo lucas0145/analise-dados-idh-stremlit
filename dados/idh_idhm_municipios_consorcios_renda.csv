@@ -1,0 +1,26 @@
+﻿municipio,uf,consorcio_governadores,populacao,idhm,idhm_educacao,idhm_longevidade,idhm_renda,rendimento_medio_responsavel,rendimento_mediano_responsavel,rendimento_q1,rendimento_q3,rendimento_iqr,limite_inferior_outlier,limite_superior_outlier,razao_media_mediana,outlier_assimetria_alta
+Acrelândia,AC,Consórcio Amazônia Legal,15400,0.604,0.512,0.804,0.536,1280.5,950.0,620.0,1650.0,1030.0,-925.0,3195.0,1.35,False
+Cruzeiro do Sul,AC,Consórcio Amazônia Legal,91500,0.664,0.582,0.812,0.612,1620.0,1150.0,750.0,2100.0,1350.0,-1275.0,4125.0,1.41,False
+Mâncio Lima,AC,Consórcio Amazônia Legal,19300,0.625,0.53,0.808,0.56,1340.0,980.0,640.0,1720.0,1080.0,-980.0,3340.0,1.37,False
+Rio Branco,AC,Consórcio Amazônia Legal,419000,0.727,0.682,0.825,0.68,2450.0,1680.0,980.0,3100.0,2120.0,-2200.0,6280.0,1.46,False
+Sena Madureira,AC,Consórcio Amazônia Legal,46500,0.603,0.508,0.799,0.538,1250.0,910.0,590.0,1580.0,990.0,-895.0,3065.0,1.37,False
+Xapuri,AC,Consórcio Amazônia Legal,19700,0.669,0.589,0.81,0.618,1580.0,1120.0,720.0,2050.0,1330.0,-1275.0,4045.0,1.41,False
+Açailândia,MA,Consórcio Nordeste / Amazônia Legal,113000,0.689,0.608,0.821,0.651,1850.0,1320.0,820.0,2350.0,1530.0,-1475.0,4645.0,1.4,False
+Alcântara,MA,Consórcio Nordeste / Amazônia Legal,22100,0.6,0.518,0.795,0.522,1180.0,880.0,560.0,1490.0,930.0,-835.0,2885.0,1.34,False
+Bacabal,MA,Consórcio Nordeste / Amazônia Legal,105000,0.651,0.562,0.801,0.602,1520.0,1100.0,700.0,1980.0,1280.0,-1220.0,3900.0,1.38,False
+Caxias,MA,Consórcio Nordeste / Amazônia Legal,166000,0.643,0.55,0.798,0.598,1480.0,1060.0,680.0,1910.0,1230.0,-1165.0,3755.0,1.4,False
+Imperatriz,MA,Consórcio Nordeste / Amazônia Legal,259000,0.731,0.672,0.83,0.702,2580.0,1750.0,1020.0,3250.0,2230.0,-2325.0,6595.0,1.47,False
+São Luís,MA,Consórcio Nordeste / Amazônia Legal,1038000,0.768,0.735,0.842,0.731,3120.0,1980.0,1150.0,4100.0,2950.0,-3275.0,8525.0,1.58,True
+Fernando Falcão,MA,Consórcio Nordeste / Amazônia Legal,10800,0.443,0.286,0.728,0.417,720.0,520.0,350.0,890.0,540.0,-460.0,1700.0,1.38,False
+Altamira,PA,Consórcio Amazônia Legal,126000,0.665,0.568,0.815,0.628,1920.0,1380.0,860.0,2480.0,1620.0,-1570.0,4910.0,1.39,False
+Belém,PA,Consórcio Amazônia Legal,1303000,0.746,0.701,0.831,0.712,2890.0,1850.0,1080.0,3800.0,2720.0,-3000.0,7880.0,1.56,True
+Ananindeua,PA,Consórcio Amazônia Legal,478000,0.718,0.662,0.822,0.68,2210.0,1540.0,920.0,2850.0,1930.0,-1975.0,5745.0,1.44,False
+Marabá,PA,Consórcio Amazônia Legal,283000,0.668,0.572,0.814,0.635,2150.0,1490.0,890.0,2750.0,1860.0,-1900.0,5540.0,1.44,False
+Parauapebas,PA,Consórcio Amazônia Legal,267000,0.715,0.638,0.835,0.685,3420.0,2100.0,1200.0,4300.0,3100.0,-3450.0,8950.0,1.63,True
+Santarém,PA,Consórcio Amazônia Legal,331000,0.691,0.612,0.819,0.652,1980.0,1390.0,840.0,2550.0,1710.0,-1725.0,5115.0,1.42,False
+Melgaço,PA,Consórcio Amazônia Legal,278000,0.418,0.255,0.712,0.398,680.0,490.0,320.0,810.0,490.0,-415.0,1545.0,1.39,False
+Manaus,AM,Consórcio Amazônia Legal,2063000,0.737,0.688,0.826,0.708,2750.0,1780.0,1050.0,3600.0,2550.0,-2775.0,7425.0,1.54,True
+Parintins,AM,Consórcio Amazônia Legal,116000,0.658,0.575,0.805,0.605,1590.0,1130.0,710.0,2020.0,1310.0,-1255.0,3985.0,1.41,False
+Atalaia do Norte,AM,Consórcio Amazônia Legal,20300,0.45,0.301,0.73,0.42,750.0,540.0,360.0,920.0,560.0,-480.0,1760.0,1.39,False
+Fortaleza,CE,Consórcio Nordeste,2428000,0.754,0.716,0.828,0.722,2820.0,1790.0,1040.0,3700.0,2660.0,-2950.0,7690.0,1.58,True
+Sobral,CE,Consórcio Nordeste,210000,0.714,0.668,0.818,0.665,1950.0,1410.0,870.0,2520.0,1650.0,-1605.0,4995.0,1.38,False

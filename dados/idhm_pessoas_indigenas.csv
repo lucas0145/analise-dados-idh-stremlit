@@ -1,0 +1,21 @@
+﻿regiao;Situacao_Domicilio;Localizacao_TI;IDHM_Estimado_Indigena;Populacao_2022
+Norte;Urbana;Fora de TI;0.695;215430
+Norte;Urbana;Dentro de TI;0.612;45120
+Norte;Rural;Fora de TI;0.58;182340
+Norte;Rural;Dentro de TI;0.535;310520
+Nordeste;Urbana;Fora de TI;0.71;195400
+Nordeste;Urbana;Dentro de TI;0.64;22150
+Nordeste;Rural;Fora de TI;0.595;160210
+Nordeste;Rural;Dentro de TI;0.56;142100
+Centro-Oeste;Urbana;Fora de TI;0.745;48120
+Centro-Oeste;Urbana;Dentro de TI;0.63;12890
+Centro-Oeste;Rural;Fora de TI;0.61;22340
+Centro-Oeste;Rural;Dentro de TI;0.52;103210
+Sudeste;Urbana;Fora de TI;0.762;105430
+Sudeste;Urbana;Dentro de TI;0.67;6120
+Sudeste;Rural;Fora de TI;0.64;10540
+Sudeste;Rural;Dentro de TI;0.59;12110
+Sul;Urbana;Fora de TI;0.755;45210
+Sul;Urbana;Dentro de TI;0.665;4320
+Sul;Rural;Fora de TI;0.625;14210
+Sul;Rural;Dentro de TI;0.575;39320
